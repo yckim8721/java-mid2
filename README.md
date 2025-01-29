@@ -1,5 +1,5 @@
-#### java-mid2 학습내용
-
+### java-mid2 학습내용
+---
 1. 제네릭 - Generic1
 2. 제네릭 - Generic2
 3. 컬렉션 프레임워크 - ArrayList
